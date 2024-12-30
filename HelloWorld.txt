@@ -2,4 +2,4 @@
 "Editer depuis gitHub"
 "Editer depuis le local"
 "BackgroundColor change"
-"Add date and Chande window size"
+"Change window Size"
