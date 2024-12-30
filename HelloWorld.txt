@@ -2,3 +2,4 @@
 "Editer depuis gitHub"
 "Editer depuis le local"
 "BackgroundColor change"
+"Change window Size"
